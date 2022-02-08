@@ -18,8 +18,9 @@ a shop made with Vue
 ## 3. 启动前台应用并访问
 	1). 进入shop_client 
 	2). 执行命令: npm start/npm run serve
+	
+<img src="https://github.com/walker95279527/foodshop/blob/master/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/1.png" width="200" height="200" alt=""/><br/>
 
-![Image text](https://github.com/walker95279527/foodshop/blob/master/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/1.png)
 
 ![Image text](https://github.com/walker95279527/foodshop/blob/master/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/2.png)
 
