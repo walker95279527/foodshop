@@ -19,3 +19,4 @@ a shop made with Vue
 	1). 进入shop_client 
 	2). 执行命令: npm start/npm run serve
 
+![Image text](https://github.com/walker95279527/foodshop/blob/master/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/1.png)
