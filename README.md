@@ -19,37 +19,23 @@ a shop made with Vue
 	1). 进入shop_client 
 	2). 执行命令: npm start/npm run serve
 	
-<img src="https://github.com/walker95279527/foodshop/blob/master/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/1.png" width="200" height="200" alt=""/><br/>
+<img src="https://github.com/walker95279527/foodshop/blob/master/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/1.png" width="500px" height="800px" alt=""/>
+<img src="https://github.com/walker95279527/foodshop/blob/master/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/2.png" width="500px" height="800px" alt=""/>
+<img src="https://github.com/walker95279527/foodshop/blob/master/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/3.png" width="500px" height="800px" alt=""/>
+<img src="https://github.com/walker95279527/foodshop/blob/master/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/4.png" width="500px" height="800px" alt=""/>
+<img src="https://github.com/walker95279527/foodshop/blob/master/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/5.png" width="500px" height="800px" alt=""/>
+<img src="https://github.com/walker95279527/foodshop/blob/master/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/6.png" width="500px" height="800px" alt=""/>
+<img src="https://github.com/walker95279527/foodshop/blob/master/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/7.png" width="500px" height="800px" alt=""/>
+<img src="https://github.com/walker95279527/foodshop/blob/master/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/8.png" width="500px" height="800px" alt=""/>
+<img src="https://github.com/walker95279527/foodshop/blob/master/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/9.png" width="500px" height="800px" alt=""/>
+<img src="https://github.com/walker95279527/foodshop/blob/master/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/10.png" width="500px" height="800px" alt=""/>
+<img src="https://github.com/walker95279527/foodshop/blob/master/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/11.png" width="500px" height="800px" alt=""/>
+<img src="https://github.com/walker95279527/foodshop/blob/master/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/12.png" width="500px" height="800px" alt=""/>
+<img src="https://github.com/walker95279527/foodshop/blob/master/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/13.png" width="500px" height="800px" alt=""/>
+<img src="https://github.com/walker95279527/foodshop/blob/master/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/14.png" width="500px" height="800px" alt=""/>
+<img src="https://github.com/walker95279527/foodshop/blob/master/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/15.png" width="500px" height="800px" alt=""/>
+<img src="https://github.com/walker95279527/foodshop/blob/master/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/16.png" width="500px" height="800px" alt=""/>
+<img src="https://github.com/walker95279527/foodshop/blob/master/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/17.png" width="500px" height="800px" alt=""/>
 
 
-![Image text](https://github.com/walker95279527/foodshop/blob/master/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/2.png)
 
-![Image text](https://github.com/walker95279527/foodshop/blob/master/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/3.png)
-
-![Image text](https://github.com/walker95279527/foodshop/blob/master/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/4.png)
-
-![Image text](https://github.com/walker95279527/foodshop/blob/master/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/5.png)
-
-![Image text](https://github.com/walker95279527/foodshop/blob/master/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/6.png)
-
-![Image text](https://github.com/walker95279527/foodshop/blob/master/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/7.png)
-
-![Image text](https://github.com/walker95279527/foodshop/blob/master/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/8.png)
-
-![Image text](https://github.com/walker95279527/foodshop/blob/master/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/9.png)
-
-![Image text](https://github.com/walker95279527/foodshop/blob/master/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/10.png)
-
-![Image text](https://github.com/walker95279527/foodshop/blob/master/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/11.png)
-
-![Image text](https://github.com/walker95279527/foodshop/blob/master/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/12.png)
-
-![Image text](https://github.com/walker95279527/foodshop/blob/master/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/13.png)
-
-![Image text](https://github.com/walker95279527/foodshop/blob/master/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/14.png)
-
-![Image text](https://github.com/walker95279527/foodshop/blob/master/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/15.png)
-
-![Image text](https://github.com/walker95279527/foodshop/blob/master/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/16.png)
-
-![Image text](https://github.com/walker95279527/foodshop/blob/master/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE/17.png)
